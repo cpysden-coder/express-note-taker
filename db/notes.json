@@ -48,5 +48,15 @@
         "title": "gyg",
         "text": "ghg",
         "review_id": "b7db"
+    },
+    {
+        "title": "hjit",
+        "text": "uiyj",
+        "review_id": "4ff0"
+    },
+    {
+        "title": "update heroku to git push",
+        "text": "Update how deploys to heroku work by using git push instead of auto deploy.",
+        "review_id": "426e"
     }
 ]
