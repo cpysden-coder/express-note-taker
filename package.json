@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/cpysden-coder/express-note-taker/issues"
   },
-  "homepage": "https://github.com/cpysden-coder/express-note-taker#readme"
+  "homepage": "https://github.com/cpysden-coder/express-note-taker#readme",
+  "devDependencies": {}
 }

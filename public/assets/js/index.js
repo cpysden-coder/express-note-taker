@@ -1,3 +1,5 @@
+console.log("hollow world");
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
@@ -41,6 +43,7 @@ const saveNote = (note) =>
     },
     body: JSON.stringify(note),
   });
+  
 
 const deleteNote = (id) =>
   fetch(`/api/notes/${id}`, {

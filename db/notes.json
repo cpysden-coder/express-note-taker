@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": 2,
+        "title": "My first note",
+        "text": "Something to test and see if I can view it on the webpage"
+    },
+    {
+        "id": "3",
+        "title": "cp test note",
+        "text": "Scissor Switch"
+    },
+    {
+        "id": "4",
+        "title": "another test note",
+        "text": "is this better"
+    },
+    {
+        "id": "5",
+        "title": "cleared notes",
+        "text": "cleared up notes to remove stuff"
+    },
+    {
+        "title": "cleared notes",
+        "text": "cleared up notes to remove stuff",
+        "review_id": "fd1d"
+    },
+    {
+        "title": "today's todo",
+        "text": "figure out how to pass stuff from front end to backend!",
+        "review_id": "fbe3"
+    },
+    {
+        "title": "new note on things",
+        "text": "something",
+        "review_id": "2272"
+    },
+    {
+        "title": "huh",
+        "text": "njnj",
+        "review_id": "4b95"
+    },
+    {
+        "title": "gyg",
+        "text": "ghg",
+        "review_id": "b7db"
+    }
+]
